@@ -1,0 +1,9 @@
+{
+  "name": "factory",
+  "description": "A small, visual software factory: feature or issue → spec → build → parallel reviews → approval → pull request, one git worktree per job.",
+  "version": "1.0.0",
+  "author": { "name": "Kellen Baker" },
+  "homepage": "https://github.com/mkbaker/factory",
+  "repository": "https://github.com/mkbaker/factory",
+  "license": "MIT"
+}

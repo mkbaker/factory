@@ -1,0 +1,16 @@
+{
+  "name": "mkbaker",
+  "owner": {
+    "name": "Kellen Baker"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Kellen Baker"
+  },
+  "plugins": [
+    {
+      "name": "factory",
+      "source": "./",
+      "description": "Software factory: spec \u2192 build \u2192 parallel reviews \u2192 approval \u2192 pull request, one git worktree per job."
+    }
+  ]
+}
